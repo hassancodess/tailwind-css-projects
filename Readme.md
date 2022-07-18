@@ -6,12 +6,12 @@ All of the projects are created with **Tailwind's PlayCDN**
 ## Projects 
 
 - Sign Up Form
-- Login Form
-- Navigation Bar
-- Headers
-- Alert
-- Testimonial
-- Landing Pages 
+- Login Form **(working)**
+- Navigation Bar (soon)
+- Headers (soon)
+- Alert (soon)
+- Testimonial (soon)
+- Landing Pages (soon)
 
 
 ## Demo
