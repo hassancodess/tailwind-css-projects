@@ -5,8 +5,73 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://cdn.tailwindcss.com"></script>
     <title>Tailwind CSS Projects</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: 'Roboto', sans-serif;
+      }
+    </style>
   </head>
-  <body class="bg-slate-200">
-    <p>today</p>
+  <body>
+    <div class="flex flex-col items-center justify-center h-screen bg-blue-600">
+      <div class="max-w-xl bg-white rounded-sm mb-4">
+        <div class="py-6 px-8">
+          <h2 class="font-bold text-4xl">Sign Up</h2>
+          <p class="text-slate-500 mt-2">
+            Please fill in this form to create an account!
+          </p>
+        </div>
+        <div class="w-full bg-slate-400 border"></div>
+        <form class="px-8 max-w-xl space-y-6">
+          <input
+            type="text"
+            id="fname"
+            class="bg-gray-200 py-2 px-4 rounded-sm mr-20"
+            placeholder="First Name"
+          />
+          <input
+            type="text"
+            id="lname"
+            class="bg-gray-200 py-2 px-4 rounded-sm"
+            placeholder="Last Name"
+          />
+          <input
+            type="email"
+            id="email"
+            class="bg-gray-200 py-2 px-4 rounded-sm mt-6 w-full"
+            placeholder="Email"
+          />
+          <input
+            type="password"
+            id="password"
+            class="bg-gray-200 py-2 px-4 rounded-sm mt-6 w-full"
+            placeholder="Password"
+          />
+          <input
+            type="password"
+            id="confirmpassword"
+            class="bg-gray-200 py-2 px-4 rounded-sm mt-6 w-full"
+            placeholder="Confirm Password"
+          />
+          <input type="checkbox" id="terms" class="inline mr-1" />
+          <label for="terms" class="text-gray-500"
+            >I accept the <span class="text-blue-500">Terms of Use</span> &
+            <span class="text-blue-500">Privacy Policy.</span></label
+          >
+          <button class="w-36 h-12 bg-blue-500 text-white font-bold block">
+            Sign Up
+          </button>
+        </form>
+      </div>
+      <p class="text-white">
+        Already have an Account?
+        <span class="underline underline-offset-1">Login here.</span>
+      </p>
+    </div>
   </body>
 </html>
