@@ -2,17 +2,17 @@
 
 This repo contains all my mini projects that I've made using Tailwind CSS.
 
-All of the projects are created with **Tailwind's PlayCDN** 
-## Projects 
+All of the projects are created with **Tailwind's PlayCDN**
 
-- Sign Up Form
-- Login Form **(working)**
-- Navigation Bar (soon)
-- Headers (soon)
+## Projects
+
+- Sign Up Form (Completed)
+- Login Form (Completed)
+- Navigation Bar (Completed)
+- Header **(working)**
 - Alert (soon)
 - Testimonial (soon)
 - Landing Pages (soon)
-
 
 ## Demo
 
