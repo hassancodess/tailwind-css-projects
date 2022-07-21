@@ -6,9 +6,9 @@ All of the projects are created with **Tailwind's PlayCDN**
 
 ## Projects
 
-- Sign Up Form (Completed)
-- Login Form (Completed)
-- Navigation Bar (Completed)
+- Sign Up Form ✔️
+- Login Form ✔️
+- Navigation Bar ✔️
 - Header **(working)**
 - Alert (soon)
 - Testimonial (soon)
