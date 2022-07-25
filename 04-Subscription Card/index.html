@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Subscription Card</title>
+  </head>
+  <body>
+    <!-- Background Container -->
+    <div class="flex h-screen items-center justify-center bg-slate-800">
+      <!-- Upper Container -->
+      <div class="rounded-xl bg-slate-900 p-4">
+        <!-- Inner Container -->
+        <div class="flex flex-col rounded-xl">
+          <!-- Image -->
+          <img
+            src="https://picsum.photos/400/200"
+            alt="Image"
+            class="rounded-xl"
+          />
+          <!-- Content -->
+          <div class="my-4 max-w-md antialiased">
+            <h1 class="font-serif text-xl text-white">
+              Get diet and fitness tips in your inbox
+            </h1>
+            <p class="my-4 text-white">
+              Eat better and exercise better. Sign up for Diet & Fitness
+              newsletter.
+            </p>
+            <div class="text-white">
+              <input
+                type="text"
+                class="w-full my-2 rounded-md bg-slate-800 px-6 py-2 text-center placeholder:text-sm"
+                placeholder="Enter your email address"
+              />
+              <button
+                class="bg-lime-600 w-full py-2 rounded-lg hover:bg-lime-700 duration-300 text-slate-800 font-medium"
+              >
+                Subscribe
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
