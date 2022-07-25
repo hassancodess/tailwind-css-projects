@@ -9,6 +9,7 @@ All of the projects are created with **Tailwind's PlayCDN**
 - Sign Up Form ✔️
 - Login Form ✔️
 - Navigation Bar ✔️
+- Subscription Card ✔️
 - Header **(working)**
 - Alert (soon)
 - Testimonial (soon)
