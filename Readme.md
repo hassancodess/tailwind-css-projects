@@ -17,4 +17,4 @@ All of the projects are created with **Tailwind's PlayCDN**
 
 ## Demo
 
-[Tailwind CSS Mini Projects](tailwind-css-projects.pages.dev/)
+[Tailwind CSS Mini Projects](https://tailwind-css-projects.pages.dev/)
