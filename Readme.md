@@ -10,10 +10,7 @@ All of the projects are created with **Tailwind's PlayCDN**
 - Login Form ✔️
 - Navigation Bar ✔️
 - Subscription Card ✔️
-- Header **(working)**
-- Alert (soon)
-- Testimonial (soon)
-- Landing Pages (soon)
+- Collections List ✔️
 
 ## Demo
 
