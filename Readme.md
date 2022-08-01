@@ -11,6 +11,7 @@ All of the projects are created with **Tailwind's PlayCDN**
 - Navigation Bar ✔️
 - Subscription Card ✔️
 - Collections List ✔️
+- Pricing Grid ✔️
 
 ## Demo
 
